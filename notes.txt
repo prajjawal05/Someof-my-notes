@@ -1,0 +1,2 @@
+Suppose "abc" be a string, then 'b', may be called as its subset.
+GCD(a,b)=GCD(b,a%b)
