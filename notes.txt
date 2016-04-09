@@ -4,3 +4,5 @@ Triangular number:n is said to be triangular number if
                   8n+1 is a perfect square
                   if m=(sqrt(8m+1)-1)/2
                   then,n=(m*(m+1))/2
+To read multiple words using scanf
+        scanf("%[^/n]s",a);
