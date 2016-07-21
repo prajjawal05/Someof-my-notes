@@ -6,3 +6,4 @@ Triangular number:n is said to be triangular number if
                   then,n=(m*(m+1))/2
 To read multiple words using scanf
         scanf("%[^/n]s",a);
+Paiwise GCD of three consecutive numbers are 1(odd even odd)        
