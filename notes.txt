@@ -7,3 +7,5 @@ Triangular number:n is said to be triangular number if
 To read multiple words using scanf
         scanf("%[^/n]s",a);
 Paiwise GCD of three consecutive numbers are 1(odd even odd)        
+Distance between two iterators is found by distance(it1,it2)
+Sum of etf of divisors of n = n
