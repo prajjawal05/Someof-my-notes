@@ -9,3 +9,4 @@ To read multiple words using scanf
 Paiwise GCD of three consecutive numbers are 1(odd even odd)        
 Distance between two iterators is found by distance(it1,it2)
 Sum of etf of divisors of n = n
+A pentatope number is a numbeR OF INTERSECTION OF DIAGONALS OF A POLYGON.
