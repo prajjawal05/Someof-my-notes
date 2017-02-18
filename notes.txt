@@ -11,3 +11,5 @@ Distance between two iterators is found by distance(it1,it2)
 Sum of etf of divisors of n = n
 A pentatope number is a numbeR OF INTERSECTION OF DIAGONALS OF A POLYGON.
 Total number of possible Binary Search Trees with n different keys = Catalan number Cn = (2n)!/(n+1)!*n!
+A general formula to compute the length of common chord of two intersecting circles radii r1,r2 separated by a distance dd between their center = sqrt(d^2−(r1−r2)^2)((r1+r2)^2−d^2)/d
+
